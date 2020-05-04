@@ -1,0 +1,15 @@
+name: ClimatePolicy
+
+dependencies:
+        - python=3.7
+        - numpy
+        - pandas
+        - geopandas
+        - rasterio
+        - scikit-learn
+        - matplotlib
+        - cartopy
+        - seaborn
+        - salib
+        - tqdm
+        - xlrd
